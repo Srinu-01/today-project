@@ -30,4 +30,4 @@
     </section>
 
 
-    welcome to manaclg
+    welcome to manaclg levelup

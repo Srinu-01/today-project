@@ -28,3 +28,6 @@
             </div>
         </div>
     </section>
+
+
+    welcome to manaclg
